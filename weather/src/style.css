@@ -36,6 +36,7 @@ body {
   flex-wrap: wrap;
   cursor: pointer;
   border-radius: 20px;
+  opacity: 0.9;
   box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3),
     0 17px 17px 0 rgba(0, 0, 0, 0.15);
 }
